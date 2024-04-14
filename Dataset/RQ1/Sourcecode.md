@@ -1,0 +1,1 @@
+An open-source dataset from a GitHub repository [smart-contract-sanctuary-ethereum](https://github.com/tintinweb/smart-contract-sanctuary-ethereum/tree/015d0105102504dc8733a18c3543f87f1829a5e8/contracts/mainnet). This dataset comprises 287,267 contract source codes, covering most of the public contracts on Ethereum, and has been authenticated by Etherscan.
