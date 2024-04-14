@@ -1,0 +1,142 @@
+[
+    {
+        "0xeaaf270436a0ed397ed23bbf64df7b1dcaff142f": {
+            "ethereum_omisego": 8.975721815309178
+        }
+    },
+    {
+        "0x7a2d011c76Ed33bD56875f02d38571692BDe0563": {
+            "ethereum_ethereum": 8e-18
+        }
+    },
+    {
+        "0x7Af3460d552f832fD7E2DE973c628ACeA59B0712": {
+            "ethereum_apex-token-2": 17710115.839361306
+        }
+    },
+    {
+        "0x6f8655032885e22268a74703b76b43db0acef582": {
+            "binance-coin": 0.005644030766519799
+        }
+    },
+    {
+        "0xc80c5e40220172b36adee2c951f26f2a577810c5": {
+            "ethereum_ethereum": 8.74450976527966,
+            "ethereum_force-protocol": 2,
+            "ethereum_aurora": 10
+        }
+    },
+    {
+        "0x491965ec0837092039550e96ca6a46fdaf9d3ca3": {
+            "ethereum_ethereum": 2.629664210600276
+        }
+    },
+    {
+        "0x00fc2e075bc935c7c4283d277b90e6b9c822a105": {
+            "ethereum_ethereum": 0.0402077
+        }
+    },
+    {
+        "0xbbac3008ae312a01ae3806590f1fe49030ad8f6b": {
+            "ethereum_ethereum": 5.77e-16
+        }
+    },
+    {
+        "0x785c3570623f3d61225659744a5eb2ea83bc1e9d": {
+            "ethereum_ethereum": 0.52
+        }
+    },
+    {
+        "0xd79b3d20BF9e9d54C4da992FDa0b52861FB67575": {
+            "ethereum_ethereum": 0.006
+        }
+    },
+    {
+        "0x6dd655f10d4b9e242ae186d9050b68f725c76d76": {
+            "ethereum_api3": 61699341.24102249,
+            "ethereum_synapse-2": 247.7058
+        }
+    },
+    {
+        "0xc09347297f274807415eb17364c77b52f9f95b9f": {
+            "ethereum_ethereum": 0.0855000000000002
+        }
+    },
+    {
+        "0x4Dc868D79611C2bdcA51dEE62873EB3A31423B47": {
+            "ethereum_ethereum": 0.002021,
+            "ethereum_alpha-quark-token": 1,
+            "ethereum_decentraland": 1e-18
+        }
+    },
+    {
+        "0x1cd03b5bfd0a137c25a66ddbeb7b7794fc8f2706": {
+            "ethereum_aave-usdc-v1": 5.5e-05
+        }
+    },
+    {
+        "0xb53d1b74e1321a524bb4b3837cef11755b516a61": {
+            "ethereum_ethereum": 0.7255026737967915
+        }
+    },
+    {
+        "0xe86c6b6c21de28da056e609bda3409ac60028e40": {
+            "ethereum_streamr-xdata": 0.2434783433852503
+        }
+    },
+    {
+        "0x846b394389ea7116100b6d991a6df06d5d1e4ad1": {
+            "ethereum_ethereum": 0.1
+        }
+    },
+    {
+        "0xBc50182A19cd5d4407b82b1E64641A243Cc9d065": {
+            "binance-coin": 0.14,
+            "matic-network": 0.21,
+            "avalanche-2": 0.42
+        }
+    },
+    {
+        "0x4a49cf1b4789b3755d135fba102cf5dcb213cd36": {
+            "ethereum_ethereum": 1
+        }
+    },
+    {
+        "0x5a35a6686db167b05e2eb74e1ede9fb5d9cdb3e0": {
+            "ethereum_cake-cig-weth-0x7c5bbe30b5b1c1abaa9e1ee32e04a81a2b20a052": 5857.979539857462
+        }
+    },
+    {
+        "0xef10fadd7e797d47d8a6d8b8cf4ce32bd2f7f6c0": {
+            "ethereum_weth": 1e-07,
+            "ethereum_tether": 38
+        }
+    },
+    {
+        "0x161c39d9b261dc0c55aae551417a353605ef4914": {
+            "ethereum_ethereum": 6.32,
+            "binance-coin": 0.02
+        }
+    },
+    {
+        "0xc7794567c79520fA97E283EE966E2D181B4d2db2": {
+            "ethereum_ethereum": 3e-18
+        }
+    },
+    {
+        "0xcc89405e3cfd38412093840a3ac2f851dd395dfb": {
+            "ethereum_ethereum": 76.59997743803571,
+            "ethereum_bitclave": 1,
+            "ethereum_status": 136649.06614990014,
+            "ethereum_streamr-xdata": 9.019597006785105,
+            "ethereum_omisego": 11.096987144000188,
+            "ethereum_electrifyasia": 1.50463429490636,
+            "ethereum_gsenetwork": 76
+        }
+    },
+    {
+        "0xeaaf270436a0ed397ed23bbf64df7b1dcaff142f": {
+            "ethereum_omisego": 8.975721815309178
+        }
+    }
+]

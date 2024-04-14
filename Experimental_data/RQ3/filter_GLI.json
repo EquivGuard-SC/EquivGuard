@@ -1,0 +1,18 @@
+[
+    {
+        "0xfc6e284605ad1604b8c33066cf8265070a59fe46": {
+            "ethereum_bzx-protocol": 0.000108972965137348
+        }
+    },
+    {
+        "0xffb328ad3b727830f9482845a4737afddde85554": {
+            "matic-network": 0.03
+        }
+    },
+    {
+        "0x32e4c68b3a4a813b710595aeba7f6b7604ab9c15": {
+            "ethereum_usd-coin": 473.899839,
+            "ethereum_weth": 0
+        }
+    }
+]
