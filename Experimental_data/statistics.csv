@@ -1,0 +1,197 @@
+CCRA,_checkSig allows signature re-use,https://solodit.xyz/issues/checksig-allows-signature-re-use-trailofbits-hermez-pdf
+CCRA,SELF-SIGNED ORDERS CAN BE REUSED IN OTHER CHAINS,https://solodit.xyz/issues/self-signed-orders-can-be-reused-in-other-chains-halborn-none-orion-liquidity-aggregator-security-assessment-pdf
+CCRA,UNLIMITEDPRICEFEED IS VULNERABLE TO CROSSCHAIN SIGNATURE REPLAY ATTACKS,https://solodit.xyz/issues/unlimitedpricefeed-is-vulnerable-to-crosschain-signature-replay-attacks-halborn-unlimited-network-unlimited-leverage-pdf
+CCRA,Attacker can abuse victim's signature for marketplace bid to buy worthless item,https://solodit.xyz/issues/m-17-attacker-can-abuse-victims-signature-for-marketplace-bid-to-buy-worthless-item-code4rena-paraspace-paraspace-git
+CCRA,LibTokenPermit logic is susceptible to signature replay attacks in the case of a hard fork,https://solodit.xyz/issues/libtokenpermit-logic-is-susceptible-to-signature-replay-attacks-in-the-case-of-a-hard-fork-cyfrin-none-cyfrin-beanstalk-markdown
+CCRA,Risk of reuse of signatures across forks due to lack of chainID validation,https://solodit.xyz/issues/risk-of-reuse-of-signatures-across-forks-due-to-lack-of-chainid-validation-trailofbits-looksrare-pdf
+CCRA,Cross-Chain Signature Replay Attack,https://github.com/code-423n4/2023-01-biconomy-findings/issues/466
+CCRA,Direct usage of `ecrecover` allows signature malleability,https://github.com/code-423n4/2021-08-realitycards-findings/issues/63
+CCRA,Cross-chain replay attacks are possible with changeRecipientAddress(),https://solodit.xyz/issues/m-2-cross-chain-replay-attacks-are-possible-with-changerecipientaddress-sherlock-harpie-harpie-git
+CCRA,Lack of chainID validation allows reuse of signatures across forks,https://solodit.xyz/issues/lack-of-chainid-validation-allows-reuse-of-signatures-across-forks-trailofbits-advanced-blockchain-pdf
+CCRA,Factory.sol : Issue with arbitrary data as signature in signature based call and deploy methods,https://solodit.xyz/issues/m-2-factorysol-issue-with-arbitrary-data-as-signature-in-signature-based-call-and-deploy-methods-sherlock-nftport-nftport-git
+CCRA,EIP712 DOMAIN_SEPARATOR stored as immutable,https://solodit.xyz/issues/eip712-domain_separator-stored-as-immutable-mixbytes-none-bebop-markdown
+CCRA,Lack of ?chainID,https://solodit.xyz/issues/lack-of-chainid-trailofbits-yield-protocol-pdf
+CCRA,Cross-chain replay attacks,https://solodit.xyz/issues/l-01-cross-chain-replay-attacks-code4rena-axelar-network-axelar-network-git
+CCRA,CHAINDID IS NOT COMPATIBLE WITH CORE CHAIN,https://solodit.xyz/issues/chaindid-is-not-compatible-with-core-chain-halborn-coredao-genesis-pdf
+CCRA,permit functions use deployment-time instead of execution-time chain ID,https://solodit.xyz/issues/permit-functions-use-deployment-time-instead-of-execution-time-chain-id-consensys-dforce-lending-protocol-review-markdown
+CCRA,Cross-Chain Replay Attack,https://github.com/code-423n4/2021-04-maple-findings/issues/2
+CCRA,Cross-chain replay attacks are possible with `changeRecipientAddress()`,https://github.com/sherlock-audit/2022-09-harpie-judging/tree/main/004-M
+CCRA,Cross-chain replay attacks are possible with `deployLPToken`,https://github.com/code-423n4/2022-11-stakehouse-findings/issues/154
+CCRA,EIP712 chainId is hardcoded,https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/113
+CCRA,DIRECT USAGE OF ECRECOVER ALLOWS SIGNATURE malleability,https://solodit.xyz/issues/direct-usage-of-ecrecover-allows-signature-malleability-halborn-none-strike-finance-strike-protocol-security-assessment-pdf
+CCRA,"EIP-155 is not enforced, allowing attackers/malicious operators to profit from replaying transactions",https://github.com/code-423n4/2023-10-zksync-findings/issues/882
+CCRA,Replay attack in case of hard fork,https://github.com/code-423n4/2022-07-golom-findings/issues/391
+CCRA,Transactions can be replayed when a connectedChain is removed and then reconnected,https://github.com/code-423n4/2022-02-skale-findings/issues/57
+CCRA,NONCE IMPLEMENTATION IS REDUNDANT,https://solodit.xyz/issues/nonce-implementation-is-redundant-halborn-polemos-lending-pdf
+CCRA,setGlobalKey is susceptible to signature replay,https://solodit.xyz/issues/setglobalkey-is-susceptible-to-signature-replay-trailofbits-dharma-labs-smart-wallet-pdf
+CCRA,KYCRegistry is susceptible to signature replay attack.,https://solodit.xyz/issues/m-04-kycregistry-is-susceptible-to-signature-replay-attack-code4rena-ondo-finance-ondo-finance-contest-git
+CCRA,Replay attack and revocation inversion on con?dentialApprove,https://solodit.xyz/issues/replay-attack-and-revocation-inversion-on-confidentialapprove-trailofbits-aztec-pdf
+CCRA,Nonce reset increases the risk of a successful replay attack,https://solodit.xyz/issues/nonce-reset-increases-the-risk-of-a-successful-replay-attack-openzeppelin-security-review-ink-cargo-contract-markdown
+CCRA,Router signatures can be replayed when executing messages on the destination domain,https://solodit.xyz/issues/router-signatures-can-be-replayed-when-executing-messages-on-the-destination-domain-spearbit-connext-pdf
+CCRA,verifyingContract set incorrectly for EIP712 Domain Separator,https://solodit.xyz/issues/m-04-verifyingcontract-set-incorrectly-for-eip712-domain-separator-zachobront-none-hook-markdown
+CCRA,Replay Attacks on Co-signer Signed Invocations,https://solodit.xyz/issues/replay-attacks-on-co-signer-signed-invocations-sigmaprime-none-dapper-labs-pdf
+CCRA,Nonstandard usage of nonce,https://solodit.xyz/issues/nonstandard-usage-of-nonce-cyfrin-none-woosh-deposit-vault-markdown
+CCRA,POSSIBLE SIGNATURE REPLAY,https://solodit.xyz/issues/possible-signature-replay-halborn-seascape-new-staking-saloon-pdf
+CCRA,"_execute can potentially reorder a batch of commands while executing, breaking any assumptions on command orders.",https://solodit.xyz/issues/m-03-_execute-can-potentially-reorder-a-batch-of-commands-while-executing-breaking-any-assumptions-on-command-orders-code4rena-axelar-network-axelar-network-git
+CCRA,Signatures can be replayed in withdraw() to withdraw more tokens than the user originally intended.,https://solodit.xyz/issues/h-05-signatures-can-be-replayed-in-withdraw-to-withdraw-more-tokens-than-the-user-originally-intended-code4rena-taiko-taiko-git
+CCRA,EIP712MetaTransaction.executeMetaTransaction() failed txs are open to replay attacks,https://solodit.xyz/issues/h-04-eip712metatransactionexecutemetatransaction-failed-txs-are-open-to-replay-attacks-code4rena-rolla-rolla-contest-git
+CCRA,zNS - Insufficient protection against replay attacks,https://solodit.xyz/issues/zns-insufficient-protection-against-replay-attacks-fixed-consensys-zer0-zns-markdown
+CCRA,Attacker can drain pool using executeBuyWithCredit with malicious marketplace payload,https://solodit.xyz/issues/h-10-attacker-can-drain-pool-using-executebuywithcredit-with-malicious-marketplace-payload-code4rena-paraspace-paraspace-contest-git
+CCRA,Attacker can lock lender NFTs and ERC20 in the safe if the offer is set to partial,https://solodit.xyz/issues/h-07-attacker-can-lock-lender-nfts-and-erc20-in-the-safe-if-the-offer-is-set-to-partial-code4rena-renft-renft-git
+CCRA,Malicious Relayer can Replay Execute Calldata on Different Chains Causing Double-Spend Issue,https://github.com/code-423n4/2022-06-connext-findings/issues/144
+CCRA,A malicious borrower can hijack any NFT with permit() function he rents.,https://solodit.xyz/issues/m-02-a-malicious-borrower-can-hijack-any-nft-with-permit-function-he-rents-code4rena-renft-renft-git
+CCRA,zNS- Using a digital signature as a hash preimage,https://solodit.xyz/issues/zns-using-a-digital-signature-as-a-hash-preimage-fixed-consensys-zer0-zns-markdown
+CCRA,SIGNATURES USED IN AUTHENTICATED UPGRADABILITY FACET CAN BE REPLAYED,https://solodit.xyz/issues/signatures-used-in-authenticated-upgradability-facet-can-be-replayed-halborn-polemos-lending-pdf
+CCRA,DOMAIN_SEPARATOR() is missing in LUSDToken.sol,https://solodit.xyz/issues/m-07-domain_separator-is-missing-in-lusdtokensol-code4rena-ethos-reserve-ethos-reserve-contest-git
+CCRA,SIGNATURE NONCES ARE IMPLEMENTED INCORRECTLY,https://solodit.xyz/issues/signature-nonces-are-implemented-incorrectly-halborn-seascape-mini-miners-pdf
+CCRA,Salt-based certificate controller is subject to signature replay,https://solodit.xyz/issues/salt-based-certificate-controller-is-subject-to-signature-replay-fixed-consensys-codefi-erc1400-assessment-markdown
+CCRA,Merkle-tree-related contracts vulnerable to cross-chain-replay attacks,https://github.com/code-423n4/2022-05-factorydao-findings/issues/126
+CCRA,msg.sender is not hashed in the permit,https://solodit.xyz/issues/l-05-msgsender-is-not-hashed-in-the-permit-pashov-none-tapiocadao-markdown
+CCRA,"`_execute` can potentially reorder a batch of commands while executing, breaking any assumptions on command orders.",https://github.com/code-423n4/2022-04-axelar-findings/issues/17
+CCRA,`DOMAIN_SEPARATOR()` is missing in LUSDToken.sol,https://github.com/code-423n4/2023-02-ethos-findings/issues/638
+CCRA,`EIP712MetaTransaction.executeMetaTransaction()` failed txs are open to replay attacks,https://github.com/code-423n4/2022-03-rolla-findings/issues/45
+CCRA,`RentPayload`'s signature can be replayed,https://github.com/code-423n4/2024-01-renft-findings/issues/162
+CCRA,A malicious borrower can hijack any NFT with `permit()` function he rents.,https://github.com/code-423n4/2024-01-renft-findings/issues/587
+CCRA,Factory.sol : Issue with arbitrary data as signature in signature based call and deploy methods.,https://github.com/sherlock-audit/2022-10-nftport-judging/issues/106
+CCRA,Oracles are vulnerable to cross-chain replay attacks,https://github.com/sherlock-audit/2023-02-gmx-judging/issues/152
+CCRA,Paymaster ETH can be drained with malicious sender,https://github.com/code-423n4/2023-01-biconomy-findings/issues/151
+CCRA,Recovery transaction can be replayed after a cancellation,https://github.com/code-423n4/2023-05-ambire-findings/issues/16
+CCRA,Reentrancy in `MessageProxyForSchain` leads to replay attacks,https://github.com/code-423n4/2022-02-skale-findings/issues/24
+CCRA,Possible scenario for Signature Replay Attack,https://github.com/code-423n4/2023-01-rabbithole-findings/issues/107
+CCRA,Signature replay attacks for different identities (nonce on wrong party),https://github.com/code-423n4/2021-10-ambire-findings/issues/39
+CCRA,Signatures can be replayed in `castVoteWithReasonAndParamsBySig()` to use up more votes than a user intended,https://github.com/code-423n4/2023-08-arbitrum-findings/issues/252
+CCRA,Signatures can be replayed in `withdraw()` to withdraw more tokens than the user originally intended.,https://github.com/code-423n4/2024-03-taiko-findings/issues/60
+CCRA,"Remove owner calls can be replayed to remove a different owner at the same index, leading to severe issues when combined with lack of last owner guard",https://github.com/code-423n4/2024-03-coinbase-findings/issues/114
+CCRA,Replay attack (EIP712 signed transaction),https://github.com/code-423n4/2023-01-biconomy-findings/issues/36
+CCRA,Signature malleability not protected against,https://github.com/sherlock-audit/2022-09-harpie-judging/tree/main/010-M
+CCRA,`V3Vault.sol` permit signature does not check receiving token address is USDC,https://github.com/code-423n4/2024-03-revert-lend-findings/issues/368
+CCRA,Signature replay,https://github.com/code-423n4/2022-01-insure-findings/issues/184
+CCRA,Direct usage of ecrecover() allows signature malleability,https://solodit.xyz/issues/direct-usage-of-ecrecover-allows-signature-malleability-sigmaprime-none-interest-protocol-pdf
+CCRA,Signature malleability due to use of ecrecover,https://solodit.xyz/issues/signature-malleability-due-to-use-of-ecrecover-trailofbits-none-maple-labs-pdf
+CCRA,Signatures use only tx ID instead of entire digest,https://github.com/code-423n4/2021-07-connext-findings/issues/54
+CCRA,StrategyManager - Cross-Chain Replay Attacks After Chain Split Due to Hard-Coded DOMAIN_SEPARATOR,https://solodit.xyz/issues/strategymanager-cross-chain-replay-attacks-after-chain-split-due-to-hard-coded-domain_separator-consensys-eigenlabs-eigenlayer-markdown
+CCRA,TransactionManager - Adherence to EIP-712,https://solodit.xyz/issues/transactionmanager-adherence-to-eip-712-wont-fix-consensys-connext-nxtp-noncustodial-xchain-transfer-protocol-markdown
+CCRA,Signature malleability of EVM's ecrecover(),https://solodit.xyz/issues/n-09-signature-malleability-of-evms-ecrecover-code4rena-blur-exchange-blur-exchange-contest-git
+CCRA,Signature malleability in ecrecover Precompile Usage,https://solodit.xyz/issues/l-02-signature-malleability-in-ecrecover-precompile-usage-pashov-none-reyanetwork-markdown
+CCRA,ECDSA library has a vulnerability for signature malleability of EIP-2098 compact signatures,https://solodit.xyz/issues/ecdsa-library-has-a-vulnerability-for-signature-malleability-of-eip-2098-compact-signatures-consensys-1inch-exchange-aggregationrouter-v5-markdown
+CCRA,Signature malleability of EVM's ecrecover in verify(),https://solodit.xyz/issues/h-01-signature-malleability-of-evms-ecrecover-in-verify-code4rena-larvalabs-meebits-larvalabs-meebits-contest-git
+CCRA,Use of `ecrecover` is susceptible to signature malleability,https://github.com/code-423n4/2021-06-realitycards-findings/issues/66
+CCRA,Signature malleability of EVM's `ecrecover` in `verify()`,https://github.com/code-423n4/2021-04-meebits-findings/issues/54
+CCRA,Use of ecrecover is susceptible to signature malleability,https://solodit.xyz/issues/l-07-use-of-ecrecover-is-susceptible-to-signature-malleability-code4rena-reality-cards-reality-cards-contest-git
+CCRA,Operations Are Vulnerable To Signature Replay Via Reentrancy,https://solodit.xyz/issues/operations-are-vulnerable-to-signature-replay-via-reentrancy-sigmaprime-none-bls-wallet-pdf
+CCRA,Anyone can frontrun fixed price signature mints to waste claim ticket,https://solodit.xyz/issues/h-01-anyone-can-frontrun-fixed-price-signature-mints-to-waste-claim-ticket-zachobront-none-soundxyz-markdown
+PCA,Can we get Smart Contract address by Token Name,https://stackoverflow.com/questions/68800543/can-we-get-smart-contract-address-by-token-name
+PCA,Get Smart Contract instance from its address,https://stackoverflow.com/questions/74369486/get-smart-contract-instance-from-its-address
+PCA,How find all addresses with dataSize = 777(example) in all serum network?,https://stackoverflow.com/questions/71141613/how-find-all-addresses-with-datasize-777example-in-all-serum-network
+PCA,How to check if Ethereum address is valid in solidity?,https://stackoverflow.com/questions/63661630/how-to-check-if-ethereum-address-is-valid-in-solidity
+PCA,How to efficiently store large amount of addresses in a smart contract using solidity?,https://stackoverflow.com/questions/72910701/how-to-efficiently-store-large-amount-of-addresses-in-a-smart-contract-using-sol
+PCA,I get this the error &quot;Error: invalid address ....&quot; while running my dapp,https://stackoverflow.com/questions/64901864/i-get-this-the-error-error-invalid-address-while-running-my-dapp
+PCA,i want to return an array of 20 addresses that win a lottery in a solidity smart contract and they all share a prize pool,https://stackoverflow.com/questions/74349535/i-want-to-return-an-array-of-20-addresses-that-win-a-lottery-in-a-solidity-smart
+PCA,I would like to get all transactions given an address,https://stackoverflow.com/questions/70028880/i-would-like-to-get-all-transactions-given-an-address
+PCA,Smart Contract - Receive Ether from address,https://stackoverflow.com/questions/61897628/smart-contract-receive-ether-from-address
+PCA,"Solidity : tx.origin == address1 does not match, even when both address are same",https://stackoverflow.com/questions/71343732/solidity-tx-origin-address1-does-not-match-even-when-both-address-are-same
+PCA,Use of address function inside a contract constructor?,https://stackoverflow.com/questions/70127539/use-of-address-function-inside-a-contract-constructor
+BHM,BLOCK HEIGHT IS NOT CHECKED WHEN UPDATING STATE,https://solodit-bucket.s3.amazonaws.com/storage/reports/halborn/A41_SuperNova_Cosmos_Security_Audit_Report_Halborn_Final.pdf
+BHM,INCONSISTENT XASTRO BLOCK HEIGHT SELECTION,https://solodit-bucket.s3.amazonaws.com/storage/reports/halborn/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
+BHM,[H-01] Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible),https://code4rena.com/reports/2023-04-eigenlayer
+BHM,Invalid notarizations cause the validator to skip block validation Di?culty,https://github.com/trailofbits/publications/blob/master/reviews/DFINITYConsensus.pdf
+BHM,Maliciously cra?ted catchup package shares could cause memory resource exhaustion,https://github.com/trailofbits/publications/blob/master/reviews/DFINITYConsensus.pdf
+BHM,BOT INCONSISTENTLY CAN FAIL DUE TO MISSING CHECK,https://solodit-bucket.s3.amazonaws.com/storage/reports/halborn/A41_SuperNova_Bot_Golang_Security_Audit_Report_Halborn_Final.pdf
+BHM,Calls to archive_blocks break block-height tracking,https://github.com/trailofbits/publications/blob/master/reviews/DFINITY.pdf
+BHM,M-8: BlockSpecimenProofChain::submitBlockSpecimenProof Block specimen producer can greatly reduce session duration by submitting fake block specimen in the future,https://github.com/sherlock-audit/2023-11-covalent-judging/issues/79
+BHM,"M-3: New staking between reward epochs will dilute rewards for existing stakers. Anyone can then front-run `OperationalStaking.rewardValidators()` to steal rewards""",https://github.com/sherlock-audit/2023-11-covalent-judging/issues/47
+BHM,Risk of double-spend attacks due to use of single-node Clique consensus without ?nality API,https://github.com/trailofbits/publications/blob/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf
+BHM,ORACLE STATE IS GENERATED INSTEAD OF UPDATE,https://solodit-bucket.s3.amazonaws.com/storage/reports/halborn/A41_SuperNova_Cosmos_Security_Audit_Report_Halborn_Final.pdf
+BHM,Lack of Validation for valid\\_till\\_block\\_height on FastBridge Service,https://github.com/solodit/solodit_content/blob/main/reports/AuditOne/2023-05-09-Aurorafastbridge.md
+BHM,[M-08] Unbonding validator random selection can be predicted,https://github.com/code-423n4/2022-02-anchor-findings/issues/29
+BHM,[M-03] Governance Voting Dis-proportionally Favours Users Who Stake And Vote After A Poll Has Been Created And Had Its Snapshot Taken,https://github.com/code-423n4/2022-02-anchor-findings/issues/64
+BHM,M-3: Orders on Optimism chains can not be settled due to revert of ````keep()````,https://github.com/sherlock-audit/2024-02-perennial-v2-3-judging/issues/10
+BHM,[M-09] Anyone can pause AuctionHouse in `_createAuction`,https://code4rena.com/reports/2023-12-revolutionprotocol
+BHM,"Lack of validation of signed dealing against original dealing""",https://github.com/trailofbits/publications/blob/master/reviews/DFINITYThresholdECDSAandBtcCanisters.pdf
+BHM,bitcoin-spv - verifyHash256Merkle allows existence proofs for the same leaf in multiple locations in the tree,https://consensys.net/diligence/audits/2020/02/thesis-tbtc-and-keep/
+BHM,"[M-23] BaseRewardPool's `rewardPerTokenStored` can be inflated and rewards can be stolen""",https://github.com/code-423n4/2022-05-vetoken-findings/issues/201
+BHM,[M-06] Simple interest calculation is not exact,https://github.com/code-423n4/2022-02-anchor-findings/issues/41
+BHM,Reverted L2 Upgrade Block Forces Recommitment of Preceding Blocks with Incorrect Values,https://blog.openzeppelin.com/zksync-upgrade-system-audit
+FGR,Margin callers can drain the TAPP during liquidation by willingly increase gas costs with the shortHintArray,https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc
+FGR,[H-16] Attacker can block LayerZero channel due to variable gas cost of saving payload,https://github.com/code-423n4/2023-07-tapioca-findings/issues/1220
+FGR,Fix gas cost ETH transfer,https://github.com/mixbytes/audits_public/blob/master/Lido/Deposit%20Security%20Module/README.md#2-fix-gas-cost-eth-transfer
+FGR,[H-03] Freeze The Bridge Via Large ERC20 Names/Symbols/Denoms,https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/5
+FGR,[H-03] WrappedIbbtcEth contract will use stalled price for mint/burn if updatePricePerShare wasn¡¯t run properly,https://github.com/code-423n4/2021-10-badgerdao-findings/issues/86
+FGR,[H-18] Attacker can claim more IL by manipulating pool price then removeLiquidity,https://github.com/code-423n4/2021-11-vader-findings/issues/182
+FGR,"[H-01] OpenLevV1Lib¡¯s and LPool¡¯s doTransferOut functions call native payable.transfer, which can be unusable for smart contract calls""",https://github.com/code-423n4/2022-01-openleverage-findings/issues/75
+FGR,H-2: [NAZ-M6] Unbounded loop in `_previewWithdraw() && _redeemMax()` Can Lead To DoS,https://github.com/sherlock-audit/2022-09-knox-judging/issues/102
+FGR,H-3: Unit isn't recalculated on curve modification with setCurvePoint,https://github.com/sherlock-audit/2022-10-merit-circle-judging/issues/101
+FGR,H-1: An update gap in Chainlink's feed can malfunction the whole market,https://github.com/sherlock-audit/2022-11-float-capital-judging/issues/42
+FGR,H-2: External PT redeem functions can be reentered to double count the received underlying funds,https://github.com/sherlock-audit/2022-10-illuminate-judging/issues/236
+FGR,"H-8: Yield, Swivel, Element, APWine and Sense lend() are subject to reentracy resulting in Illuminate PT over-mint",https://github.com/sherlock-audit/2022-10-illuminate-judging/issues/179
+FGR,"[H-03]  LayerZeroModule miscalculates gas, risking loss of assets""",https://github.com/code-423n4/2022-10-holograph-findings/issues/445
+TDT,Can we get transaction information recorded in the past block using Solidity in the Smart contract?,https://stackoverflow.com/questions/50966458/can-we-get-transaction-information-recorded-in-the-past-block-using-solidity-in
+TDT,Get Current TimeStamp,https://stackoverflow.com/questions/69596360/get-current-timestamp
+TDT,How can a Solana Rust smart contract get block height or Unix time?,https://stackoverflow.com/questions/68732603/how-can-a-solana-rust-smart-contract-get-block-height-or-unix-time
+TDT,what&#39;s a better way to handle &quot;Timed out awaiting confirmation on transaction&quot; error on Metaplex CMv2?,https://stackoverflow.com/questions/71419088/whats-a-better-way-to-handle-timed-out-awaiting-confirmation-on-transaction-e
+TDT,How the state of Ethereum blockchain is updated?,https://stackoverflow.com/questions/65819569/how-the-state-of-ethereum-blockchain-is-updated
+TDT,Solana Anchor: How to forward in time?,https://stackoverflow.com/questions/69011563/solana-anchor-how-to-forward-in-time
+TDT,How to get the current time in Solana program without using any external SystemProgram account,https://stackoverflow.com/questions/72223450/how-to-get-the-current-time-in-solana-program-without-using-any-external-systemp
+TDT,How to convert solana block time to normal time?,https://stackoverflow.com/questions/72108380/how-to-convert-solana-block-time-to-normal-time
+TDT,Getting last buy timestamp for msg.sender in Solidity,https://stackoverflow.com/questions/67960277/getting-last-buy-timestamp-for-msg-sender-in-solidity
+TDT,Can I use the block height to measure the passage of a year based on the average block time in RSK and Ethereum?,https://stackoverflow.com/questions/70102701/can-i-use-the-block-height-to-measure-the-passage-of-a-year-based-on-the-average
+TDT,I want to make a time based transaction in smart contract,https://stackoverflow.com/questions/70710117/i-want-to-make-a-time-based-transaction-in-smart-contract
+TDT,Time manipulation on ZkSync,https://stackoverflow.com/questions/76852386/time-manipulation-on-zksync
+TDT,block timestamp in near-workspace.js,https://stackoverflow.com/questions/75318268/block-timestamp-in-near-workspace-js
+TDT,ether holding time for The DAO recursive calls vulnerability case,https://stackoverflow.com/questions/70169820/ether-holding-time-for-the-dao-recursive-calls-vulnerability-case
+TDT,"Start new project, time-locked wallet - Clarity Smart Contracts for Stacks",https://stackoverflow.com/questions/75854425/start-new-project-time-locked-wallet-clarity-smart-contracts-for-stacks
+TDT,[H-01] A previously timelocked NFT token becomes permanently stuck in vault if it¡¯s ever moved back into the vault,https://github.com/code-423n4/2021-05-visorfinance-findings/issues/35
+TDT,"[H-03] Reentrancy in settleAuction(): malicious publisher can bypass index timelock mechanism, inject malicious index, and rug the basket",https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/31
+TDT,[H-08] Unable to claim vesting due to unbounded timelock loop,https://github.com/code-423n4/2021-11-bootfinance-findings/issues/120
+TDT,[H-01] Timelock can be bypassed,https://github.com/code-423n4/2021-11-malt-findings/issues/263
+TDT,[H-01] Admin does not have to wait to call `lastResortTimelockOwnerClaimNFT(),https://github.com/code-423n4/2022-12-forgeries-findings/issues/146
+TDT,[H01] ETH can be locked inside the Timelock contract,https://blog.openzeppelin.com/tally-safeguard-audit/
+TDT,TimeLock spam prevention can be bypassed,https://consensys.net/diligence/audits/2019/12/dandelion-organizations/
+TDT,Depositing tokens in GNTDeposit does not reset the timelock,https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf
+TDT,TimeLockUpgrade¡¯s timeLockPeriod remains default post-deployment,https://solodit-bucket.s3.amazonaws.com/storage/reports/trailofbits/setprotocol.pdf
+TDT,Speci?cation-Code mismatch for AssetProxyOwner timelock period,https://solodit-bucket.s3.amazonaws.com/storage/reports/trailofbits/0x-protocol.pdf
+TDT,"Proposals could allow Timelock.admin takeover""",https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf
+TDT,"[H-03] Reentrancy in settleAuction(): malicious publisher can bypass index timelock mechanism, inject malicious index, and rug the basket",https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/31
+TDT,The Deployer of GovernanceTimelock Gets Privileged Access to the System.,https://consensys.net/diligence/audits/2023/08/lybra-finance/
+TDT,[H-04] withdraw timelock can be circumvented,https://github.com/code-423n4/2021-06-pooltogether-findings/issues/91
+TDT,[H-02] DAO proposals can be executed by anyone due to vulnerable `TimelockController`,https://github.com/code-423n4/2021-08-notional-findings/issues/58
+TDT,[H-03] Fixed participants will be incorrectly penalized during adminSettleDebt timelock period,https://github.com/solodit/solodit_content/blob/main/reports/Pashov/2024-02-01-Saffron.md
+TDT,[H-02] VaderPoolV2 owner can steal all user assets which are approved VaderPoolV2,https://code4rena.com/contests/2021-12-vader-protocol-contest
+GLI,[H-01] An attacker can lock operator out of the pod by setting gas limit that's higher than the block gas limit of dest chain,https://solodit.xyz/issues/h-01-an-attacker-can-lock-operator-out-of-the-pod-by-setting-gas-limit-thats-higher-than-the-block-gas-limit-of-dest-chain-code4rena-holograph-holograph-contest-git
+GLI,"[H-08] Gas limit check is inaccurate, leading to an operator being able to fail a job intentionally",https://solodit.xyz/issues/h-08-gas-limit-check-is-inaccurate-leading-to-an-operator-being-able-to-fail-a-job-intentionally-code4rena-holograph-holograph-contest-git
+GLI,"H-1: Malicious user can finalize other¡¯s withdrawal with less than specified gas limit, leading to loss of funds",https://solodit.xyz/issues/h-1-malicious-user-can-finalize-others-withdrawal-with-less-than-specified-gas-limit-leading-to-loss-of-funds-sherlock-optimism-optimism-git
+GLI,"H-2: Withdrawals with high gas limits can be bricked by a malicious user, permanently locking funds",https://github.com/sherlock-audit/2023-01-optimism-judging/issues/96
+GLI,H-9: Too many active protections can cause the ProtectionPool reach the block gas limit,https://github.com/sherlock-audit/2023-02-carapace-judging/issues/63
+GLI,[C01] Possible state manipulation after execution of transactions with invalid gas limit,https://blog.openzeppelin.com/optimism-smart-contracts-audit/
+GLI,[H05] Repeatedly exceeding nuisance gas limit,https://blog.openzeppelin.com/optimism-smart-contracts-audit/
+GLI,tbtc - Ethereum block gas limit imposes a fundamental limitation on SPV proofs,https://consensys.net/diligence/audits/2020/02/thesis-tbtc-and-keep/
+GLI,"Gas limit for bounty and slashing distribution ??Addressed""",https://consensys.net/diligence/audits/2020/01/skale-token/
+GLI,Several loops are not executable due to gas limitation Di?culty: High,https://github.com/trailofbits/publications/blob/master/reviews/CurveDAO.pdf
+GLI,"Heavy Blocks May Affect Block Finalization, if the Gas Requirement Exceeds Block Gas Limit",https://consensys.net/diligence/audits/2023/06/linea-message-service/
+GLI,[H-04] Unbounded loop in _removeNft could lead to a griefing/DOS attack,https://code4rena.com/reports/2021-05-visorfinance
+GLI,[H-04] Rewards accumulated can stay constant and often not increment,https://github.com/code-423n4/2021-08-yield-findings/issues/65
+GLI,"[H-01] Contract BasicSale is missing an approve(address(vestLock), 2**256-1) call",https://github.com/code-423n4/2021-11-bootfinance-findings/issues/135
+GLI,[H-08] Unable to claim vesting due to unbounded timelock loop,https://github.com/code-423n4/2021-11-bootfinance-findings/issues/120
+GLI,[H-03] DoS: `claimForAllWindows()` May Be Made Unusable By An Attacker,https://github.com/code-423n4/2022-03-joyn-findings/issues/6
+GLI,H-2: [NAZ-M6] Unbounded loop in `_previewWithdraw() && _redeemMax()` Can Lead To DoS,https://github.com/sherlock-audit/2022-09-knox-judging/issues/102
+GLI,"[H-03]  LayerZeroModule miscalculates gas, risking loss of assets",https://github.com/code-423n4/2022-10-holograph-findings/issues/445
+GLI,[H-07] Failed job can't be recovered. NFT may be lost,https://github.com/code-423n4/2022-10-holograph-findings/issues/102
+GLI,H-1: H-01 wstETH-ETH Curve LP Token Price can be manipulated to Cause Unexpected Liquidations,https://github.com/sherlock-audit/2022-12-sentiment-judging/issues/7
+GLI,H-3: Adverary can DOS contract by making a large number of deposits/withdraws then removing them all,https://github.com/sherlock-audit/2022-11-opyn-judging/issues/148
+GLI,H-2: Malicious user can use an excessively large _toAddress in OFTCore#sendFrom to break layerZero communication,https://github.com/sherlock-audit/2023-01-uxd-judging/issues/270
+GLI,H-7: Refunds can be bricked by triggering OOG (out of gas) in DepositManager,https://github.com/sherlock-audit/2023-02-openq-judging/issues/77
+GLI,USER CAN VOTE MULTIPLE TIMES THROUGH DELEGATION,https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Thorstarter_Governance_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf
+GLI,DOS/CONTRACT TAKEOVER ON DAO.SOL CONTRACT,https://solodit-bucket.s3.amazonaws.com/storage/reports/halborn/Thorstarter_Governance_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf
+GLI,DepositQueue can become permanently locked,"https://blog.openzeppelin.com/pods-finance-ethereum-volatility-vault-audit-1/"""
+GLI,"Slashing mechanism grants exponentially more rewards than expected""",https://blog.openzeppelin.com/uma-dvm-2-0-audit/
+GLI,[H01] Incorrect prefund calculation [core],https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/
+GLI,[C03] Unbounded nuisance gas,https://blog.openzeppelin.com/optimism-smart-contracts-audit/
+GLI,[H01] Attackers can prevent honest users from performing an instant withdraw from the Wallet contract,"https://blog.openzeppelin.com/futureswap-v2-audit/"""
+GLI,[H01] A malicious delegator can prevent all other delegators from delegating,https://blog.openzeppelin.com/audius-contracts-audit/
+GLI,[C01] Any Selected Validator can Permanently DoS Reward Payouts,https://blog.openzeppelin.com/props-rewards-engine-contracts-audit/
+GLI,Router - handleMetaTxRequest - gas griefing / race conditions / missing validations / free meta transactions,https://consensys.net/diligence/audits/2021/07/connext-nxtp-noncustodial-xchain-transfer-protocol/
+GLI,Unbounded loop in Controller.calcAccountEquity allows DoS on liquidation,https://consensys.net/diligence/audits/2021/03/dforce-lending-protocol-review/
+GLI,"getLockedCount is iterating over all history of delegations ??Addressed""",https://consensys.net/diligence/audits/2020/01/skale-token/
+GLI,Whitelisted tokens limit,https://consensys.net/diligence/audits/2020/01/the-lao/
+GLI,[H-03] `dMute.sol`: Attacker can push lock items to victim's array such that redemptions are forever blocked,https://github.com/code-423n4/2023-03-mute-findings/issues/6
+GLI,User's LsETH might be locked due to out-of-gas error during recursive calls,https://github.com/spearbit/portfolio/blob/master/pdfs/LiquidCollective3-Spearbit-Security-Review.pdf
