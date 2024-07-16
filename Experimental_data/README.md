@@ -38,11 +38,11 @@ Experimental_data
 │   ├── Balance(USD)            # Balances (in USD) of addresses containing different EVM-Inequivalent Code Smells    
 │   └── Token                   # Token balances of addresses containing different EVM-Inequivalent Code Smells
 ├── Security_audit              # Blockchain security audit reports from different security companies
-│   ├── Blocksecteam_solidity   # Blocksecteam
-│   ├── DAppSCAN-main           # Dappscan: building large-scale datasets for smart contract...  (paper)
-│   ├── SlowMist-open-report    # SlowMist
-│   ├── Trailofbits_reviews     # Trail of bits
-│   ├── Web3Bug                 # Demystifying Exploitable Bugs in Smart Contracts (paper)
+│   ├── Blocksecteam_solidity.txt   # Blocksecteam
+│   ├── DAppSCAN-main.txt           # Dappscan: building large-scale datasets for smart contract...  (paper)
+│   ├── SlowMist-open-report.txt    # SlowMist
+│   ├── Trailofbits_reviews.txt     # Trail of bits
+│   ├── Web3Bug .txt                # Demystifying Exploitable Bugs in Smart Contracts (paper)
 │   └── security vulnerabilities reports.md
 └── Stackoverflow_posts # Collected Stack Overflow posts
     ├── adaptive_stackoverflow_data.csv
