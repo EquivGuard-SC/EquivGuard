@@ -51,7 +51,7 @@ def switch_global_version(file_name):
         match = PATTERN.search(buf)
         if match:
             solc_v = match.group(1)
-            with open("xxx/.virtualenvs/py38/.solc-select/global-version", "w") as f:
+            with open("path_to_solc-select/.virtualenvs/py38/.solc-select/global-version", "w") as f:
                 f.write(solc_v)
             print("Switched global version to", solc_v)
             return solc_v
